@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bf11030.chunk.css",
+    "main.js": "/static/js/main.509e8a69.chunk.js",
+    "main.js.map": "/static/js/main.509e8a69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb5e4156.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb5e4156.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ed39877a.chunk.js": "/static/js/2.ed39877a.chunk.js",
+    "static/js/2.ed39877a.chunk.js.map": "/static/js/2.ed39877a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6bf11030.chunk.css.map": "/static/css/main.6bf11030.chunk.css.map",
+    "static/js/2.ed39877a.chunk.js.LICENSE.txt": "/static/js/2.ed39877a.chunk.js.LICENSE.txt",
+    "static/media/about.d0c9360d.svg": "/static/media/about.d0c9360d.svg",
+    "static/media/contact.8951da92.svg": "/static/media/contact.8951da92.svg",
+    "static/media/designer.da144aca.svg": "/static/media/designer.da144aca.svg",
+    "static/media/home.7d648c35.svg": "/static/media/home.7d648c35.svg",
+    "static/media/logoDesign.f050be9e.svg": "/static/media/logoDesign.f050be9e.svg",
+    "static/media/marketing.8bd6fb0e.svg": "/static/media/marketing.8bd6fb0e.svg",
+    "static/media/phoneDeveloper.045455b2.svg": "/static/media/phoneDeveloper.045455b2.svg",
+    "static/media/phoneUI.2182d284.svg": "/static/media/phoneUI.2182d284.svg",
+    "static/media/webDeveloper.d672408b.svg": "/static/media/webDeveloper.d672408b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5e4156.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ed39877a.chunk.js",
+    "static/css/main.6bf11030.chunk.css",
+    "static/js/main.509e8a69.chunk.js"
+  ]
+}
