@@ -1,0 +1,26 @@
+.card{
+    width: 17rem;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    padding: 5%;
+}
+.cards{
+    width: auto;
+    height: auto;
+    display: grid;
+    justify-items:center;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    
+    
+}
+.imgs{
+    width: 100px;
+    height: 150px;
+}
+
+@media (max-width: 576px) {
+    .cards{
+        display: grid;
+        justify-content: center;
+    }
+}

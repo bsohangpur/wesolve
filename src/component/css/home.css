@@ -1,0 +1,102 @@
+
+.Button{
+    width: 170px;
+    height: 50px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    background-color:#ffffff;
+    color:darkblue;
+    box-shadow: darkblue 5px 5px 20px;
+    
+}
+.Button:hover{
+    background-color: #59ACFF;
+    color: #ffffff;
+    box-shadow: none;
+}
+strong{
+    color:darkblue;
+    
+}
+
+.home{
+    margin-top: 10%;
+}
+.meanhead
+{
+    margin-top: 5%;
+    
+}
+.img{
+   width: 70%; 
+   height: auto;
+   animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+   
+
+   @keyframes up-down {
+       
+    0%{
+        transform: translateY(20px);
+       
+    }
+    
+    
+    100%{
+     transform: translateY(-20px);
+    
+    }
+   }
+  
+   @media (max-width: 576px) {
+    .home{
+        margin-top: 30%;
+    }
+    .pic{
+        display: grid;
+        
+        justify-items: center;
+    }
+    .buttons{
+        display: grid;
+        justify-items: center;
+        margin-top: 30%;
+    }
+    .img{
+        animation: up-down 2s ease-in-out infinite alternate-reverse both;
+    }
+    @keyframes up-down {
+       
+        0%{
+            transform: translateY(5px);
+           
+        }
+        
+        
+        100%{
+         transform: translateY(-5px);
+        
+        }
+       }
+  }
+  @media (min-width:576px) and (max-width: 900px ) {
+    
+    .img{
+        width: 50%;
+        animation: up-down 2s ease-in-out infinite alternate-reverse both;
+    }
+    @keyframes up-down {
+       
+        0%{
+            transform: translateY(5px);
+           
+        }
+        
+        
+        100%{
+         transform: translateY(-5px);
+        
+        }
+       }
+     
+  }
